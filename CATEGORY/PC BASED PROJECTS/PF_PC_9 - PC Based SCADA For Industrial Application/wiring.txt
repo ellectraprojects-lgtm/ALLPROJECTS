@@ -1,0 +1,14 @@
+PF_PC_9 - PC Based SCADA For Industrial Application
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

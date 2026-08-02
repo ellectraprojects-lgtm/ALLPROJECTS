@@ -1,0 +1,14 @@
+PF_PC_5 - PC Based Contactless Temperature Monitoring And Visitor Count For COVID -19
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

@@ -1,0 +1,14 @@
+PF_PC_2 - PC Based Industrial Parameters Storage System
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

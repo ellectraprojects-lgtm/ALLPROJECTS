@@ -1,0 +1,14 @@
+PF_LIFI_4 - LIFI Based Shopping Mall Information System
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

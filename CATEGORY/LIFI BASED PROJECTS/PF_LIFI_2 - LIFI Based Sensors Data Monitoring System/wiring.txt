@@ -1,0 +1,14 @@
+PF_LIFI_2 - LIFI Based Sensors Data Monitoring System
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

@@ -1,0 +1,14 @@
+PF_PC_1 - PC Based Home Automation With Voice Alert
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

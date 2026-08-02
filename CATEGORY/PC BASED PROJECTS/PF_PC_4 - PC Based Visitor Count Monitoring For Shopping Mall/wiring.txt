@@ -1,0 +1,14 @@
+PF_PC_4 - PC Based Visitor Count Monitoring For Shopping Mall
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

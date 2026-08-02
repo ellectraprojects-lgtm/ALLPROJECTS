@@ -1,0 +1,14 @@
+PF_PC_6 - PC Based EGG Incubator Parameter Monitoring
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

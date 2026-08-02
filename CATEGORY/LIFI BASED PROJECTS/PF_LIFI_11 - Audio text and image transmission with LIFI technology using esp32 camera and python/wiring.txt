@@ -1,0 +1,14 @@
+PF_LIFI_11 - Audio text and image transmission with LIFI technology using esp32 camera and python
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

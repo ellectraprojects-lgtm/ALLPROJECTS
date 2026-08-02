@@ -1,0 +1,14 @@
+PF_LIFI_1 - LIFI Based Electrical Appliances Control
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

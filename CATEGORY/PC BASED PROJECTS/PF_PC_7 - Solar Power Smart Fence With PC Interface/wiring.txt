@@ -1,0 +1,14 @@
+PF_PC_7 - Solar Power Smart Fence With PC Interface
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)
