@@ -1,0 +1,14 @@
+PF_FP_2 - Fingerprint And GSM Based School Children Attendance Information In School Bus
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

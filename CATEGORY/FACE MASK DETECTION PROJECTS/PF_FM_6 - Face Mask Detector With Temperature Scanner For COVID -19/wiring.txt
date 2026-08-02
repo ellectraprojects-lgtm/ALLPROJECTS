@@ -1,0 +1,14 @@
+PF_FM_6 - Face Mask Detector With Temperature Scanner For COVID -19
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

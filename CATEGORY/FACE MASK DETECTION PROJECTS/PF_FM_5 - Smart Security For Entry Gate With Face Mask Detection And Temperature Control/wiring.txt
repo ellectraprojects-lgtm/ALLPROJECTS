@@ -1,0 +1,14 @@
+PF_FM_5 - Smart Security For Entry Gate With Face Mask Detection And Temperature Control
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

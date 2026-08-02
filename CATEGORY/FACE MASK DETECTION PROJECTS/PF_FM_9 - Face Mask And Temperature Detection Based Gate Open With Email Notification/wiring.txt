@@ -1,0 +1,14 @@
+PF_FM_9 - Face Mask And Temperature Detection Based Gate Open With Email Notification
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

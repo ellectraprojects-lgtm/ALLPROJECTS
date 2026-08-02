@@ -1,0 +1,14 @@
+PF_FM_2 - Face Mask Detection And RFID Attendance System
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

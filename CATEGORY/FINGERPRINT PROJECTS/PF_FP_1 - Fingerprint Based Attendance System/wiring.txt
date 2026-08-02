@@ -1,0 +1,14 @@
+PF_FP_1 - Fingerprint Based Attendance System
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)
