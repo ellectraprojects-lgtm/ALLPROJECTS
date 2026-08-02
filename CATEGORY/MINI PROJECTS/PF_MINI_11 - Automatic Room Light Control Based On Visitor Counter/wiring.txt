@@ -1,0 +1,14 @@
+PF_MINI_11 - Automatic Room Light Control Based On Visitor Counter
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

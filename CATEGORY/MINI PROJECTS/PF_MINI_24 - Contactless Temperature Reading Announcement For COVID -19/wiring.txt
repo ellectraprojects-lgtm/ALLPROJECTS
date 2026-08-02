@@ -1,0 +1,14 @@
+PF_MINI_24 - Contactless Temperature Reading Announcement For COVID -19
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

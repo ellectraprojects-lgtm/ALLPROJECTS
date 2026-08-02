@@ -1,0 +1,14 @@
+PF_MINI_6 - Automatic Railway Gate Control
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

@@ -1,0 +1,14 @@
+PF_MINI_2 - Smart Street Light With LDR And IR
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

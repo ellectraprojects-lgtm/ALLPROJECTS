@@ -1,0 +1,14 @@
+PF_MINI_10 - Power Saver System For Advertisement Hoarding Using RTC
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

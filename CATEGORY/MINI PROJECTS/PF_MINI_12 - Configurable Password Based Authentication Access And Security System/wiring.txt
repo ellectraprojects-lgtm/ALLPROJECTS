@@ -1,0 +1,14 @@
+PF_MINI_12 - Configurable Password Based Authentication Access And Security System
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

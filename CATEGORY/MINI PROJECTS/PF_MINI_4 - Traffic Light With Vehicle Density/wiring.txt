@@ -1,0 +1,14 @@
+PF_MINI_4 - Traffic Light With Vehicle Density
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

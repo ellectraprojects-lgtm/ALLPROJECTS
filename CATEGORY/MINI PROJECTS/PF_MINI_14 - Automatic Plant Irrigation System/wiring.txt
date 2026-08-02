@@ -1,0 +1,14 @@
+PF_MINI_14 - Automatic Plant Irrigation System
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

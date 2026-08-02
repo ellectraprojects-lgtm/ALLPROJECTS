@@ -1,0 +1,14 @@
+PF_MINI_5 - Password Based Door Locking System
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)
