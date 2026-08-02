@@ -1,0 +1,14 @@
+PF_GSM_20 - Energy Efficient Smart Building Devices For Home Security Application Using GSM
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)
