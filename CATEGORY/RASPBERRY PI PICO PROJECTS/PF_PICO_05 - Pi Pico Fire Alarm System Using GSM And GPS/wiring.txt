@@ -1,0 +1,14 @@
+PF_PICO_05 - Pi Pico Fire Alarm System Using GSM And GPS
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

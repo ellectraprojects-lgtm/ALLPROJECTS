@@ -1,0 +1,14 @@
+PF_PICO_10 - Raspberry Pi PICO Based IOT Green House Monitoring System
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

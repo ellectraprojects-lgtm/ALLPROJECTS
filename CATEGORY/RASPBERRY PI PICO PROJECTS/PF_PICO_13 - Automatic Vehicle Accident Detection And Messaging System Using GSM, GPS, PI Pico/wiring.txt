@@ -1,0 +1,14 @@
+PF_PICO_13 - Automatic Vehicle Accident Detection And Messaging System Using GSM, GPS, PI Pico
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

@@ -1,0 +1,14 @@
+PF_PICO_06 - Raspberry Pi PICO Based Automated Water Level Controller Using GSM
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

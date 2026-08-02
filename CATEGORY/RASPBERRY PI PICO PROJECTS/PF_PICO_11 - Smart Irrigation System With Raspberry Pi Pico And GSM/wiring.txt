@@ -1,0 +1,14 @@
+PF_PICO_11 - Smart Irrigation System With Raspberry Pi Pico And GSM
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

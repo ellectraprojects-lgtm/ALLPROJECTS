@@ -1,0 +1,14 @@
+PF_PICO_12 - Password Based Security Using Raspberry Pi Pico And GSM Alert
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

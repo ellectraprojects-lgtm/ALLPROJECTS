@@ -1,0 +1,14 @@
+PF_PICO_03 - Voice Enabled Home Automation Using Pi Pico And Bluetooth
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)
