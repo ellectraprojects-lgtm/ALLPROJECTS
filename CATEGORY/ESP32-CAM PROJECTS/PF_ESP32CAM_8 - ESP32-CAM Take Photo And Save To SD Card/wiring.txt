@@ -1,0 +1,14 @@
+PF_ESP32CAM_8 - ESP32-CAM Take Photo And Save To SD Card
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

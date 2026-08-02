@@ -1,0 +1,11 @@
+// PF_ESP32CAM_2 - ESP32-CAM Robot Car
+// Upload this sketch to the Arduino board.
+// See wiring.txt for pin connections.
+
+void setup() {
+  // TODO: add your setup code here
+}
+
+void loop() {
+  // TODO: add your main loop code here
+}

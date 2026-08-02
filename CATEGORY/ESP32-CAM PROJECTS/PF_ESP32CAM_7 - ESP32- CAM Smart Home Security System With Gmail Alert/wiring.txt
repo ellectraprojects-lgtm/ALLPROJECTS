@@ -1,0 +1,14 @@
+PF_ESP32CAM_7 - ESP32- CAM Smart Home Security System With Gmail Alert
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

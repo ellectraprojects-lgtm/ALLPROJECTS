@@ -1,0 +1,14 @@
+PF_ESP32CAM_16 - Automatic Stop Gate at Bridges for Overflow
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

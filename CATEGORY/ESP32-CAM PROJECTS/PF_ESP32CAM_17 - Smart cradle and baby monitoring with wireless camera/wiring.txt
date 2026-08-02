@@ -1,0 +1,14 @@
+PF_ESP32CAM_17 - Smart cradle and baby monitoring with wireless camera
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

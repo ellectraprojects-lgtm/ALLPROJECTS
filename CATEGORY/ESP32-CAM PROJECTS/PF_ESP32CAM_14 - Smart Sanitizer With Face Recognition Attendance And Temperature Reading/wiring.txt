@@ -1,0 +1,14 @@
+PF_ESP32CAM_14 - Smart Sanitizer With Face Recognition Attendance And Temperature Reading
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

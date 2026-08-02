@@ -1,0 +1,14 @@
+PF_ESP32CAM_6 - Intruder Detection And Send A Captured Image To Gmail
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

@@ -1,0 +1,14 @@
+PF_ESP32CAM_12 - Sensors Data Logger To Telegram Alert Using ESP32-CAM
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)
