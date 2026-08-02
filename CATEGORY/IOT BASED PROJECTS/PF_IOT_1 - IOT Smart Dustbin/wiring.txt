@@ -1,0 +1,14 @@
+PF_IOT_1 - IOT Smart Dustbin
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

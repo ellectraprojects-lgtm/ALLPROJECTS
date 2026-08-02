@@ -1,0 +1,14 @@
+PF_IOT_19 - IOT Based Fire Alerting System
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)
