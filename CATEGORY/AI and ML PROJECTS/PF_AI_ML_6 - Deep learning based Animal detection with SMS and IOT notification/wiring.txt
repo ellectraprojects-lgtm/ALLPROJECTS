@@ -1,0 +1,14 @@
+PF_AI_ML_6 - Deep learning based Animal detection with SMS and IOT notification
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

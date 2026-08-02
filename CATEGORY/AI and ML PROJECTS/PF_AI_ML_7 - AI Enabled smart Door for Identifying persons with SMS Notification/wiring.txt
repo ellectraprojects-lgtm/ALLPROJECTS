@@ -1,0 +1,14 @@
+PF_AI_ML_7 - AI Enabled smart Door for Identifying persons with SMS Notification
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)
