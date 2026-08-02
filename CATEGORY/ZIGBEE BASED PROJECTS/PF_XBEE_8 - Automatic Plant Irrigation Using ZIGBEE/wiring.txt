@@ -1,0 +1,14 @@
+PF_XBEE_8 - Automatic Plant Irrigation Using ZIGBEE
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

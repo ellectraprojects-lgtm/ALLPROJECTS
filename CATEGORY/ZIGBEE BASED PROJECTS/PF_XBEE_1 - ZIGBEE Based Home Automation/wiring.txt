@@ -1,0 +1,14 @@
+PF_XBEE_1 - ZIGBEE Based Home Automation
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)
