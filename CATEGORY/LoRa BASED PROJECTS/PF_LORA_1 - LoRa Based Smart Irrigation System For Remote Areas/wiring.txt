@@ -1,0 +1,14 @@
+PF_LORA_1 - LoRa Based Smart Irrigation System For Remote Areas
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

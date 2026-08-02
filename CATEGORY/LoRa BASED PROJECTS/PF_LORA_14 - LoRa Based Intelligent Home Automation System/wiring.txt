@@ -1,0 +1,14 @@
+PF_LORA_14 - LoRa Based Intelligent Home Automation System
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

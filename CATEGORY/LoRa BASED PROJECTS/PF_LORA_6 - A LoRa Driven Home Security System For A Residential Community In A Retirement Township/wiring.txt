@@ -1,0 +1,14 @@
+PF_LORA_6 - A LoRa Driven Home Security System For A Residential Community In A Retirement Township
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

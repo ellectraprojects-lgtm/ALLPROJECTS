@@ -1,0 +1,14 @@
+PF_LORA_7 - LoRa Based Smart City Air Quality Monitoring
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

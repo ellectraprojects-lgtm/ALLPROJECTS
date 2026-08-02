@@ -1,0 +1,14 @@
+PF_LORA_16 - Smart Waste Management Using LoRa
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

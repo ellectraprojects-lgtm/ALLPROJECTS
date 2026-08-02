@@ -1,0 +1,14 @@
+PF_LORA_2 - LoRa Based Smart Agriculture Monitoring System
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)
