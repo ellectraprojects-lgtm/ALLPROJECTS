@@ -1,0 +1,14 @@
+PF_BT_9 - Android based weather monitoring system using Bluetooth
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

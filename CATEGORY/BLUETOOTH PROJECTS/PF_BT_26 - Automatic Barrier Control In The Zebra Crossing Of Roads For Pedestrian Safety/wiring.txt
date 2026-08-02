@@ -1,0 +1,14 @@
+PF_BT_26 - Automatic Barrier Control In The Zebra Crossing Of Roads For Pedestrian Safety
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

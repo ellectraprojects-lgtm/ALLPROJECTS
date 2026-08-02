@@ -1,0 +1,14 @@
+PF_BT_1 - Voice Control Home Appliances
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

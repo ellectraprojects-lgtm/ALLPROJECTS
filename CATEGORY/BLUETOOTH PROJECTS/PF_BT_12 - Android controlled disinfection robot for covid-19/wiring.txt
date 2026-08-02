@@ -1,0 +1,14 @@
+PF_BT_12 - Android controlled disinfection robot for covid-19
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

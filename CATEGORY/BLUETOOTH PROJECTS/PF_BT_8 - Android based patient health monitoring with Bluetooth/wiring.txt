@@ -1,0 +1,14 @@
+PF_BT_8 - Android based patient health monitoring with Bluetooth
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

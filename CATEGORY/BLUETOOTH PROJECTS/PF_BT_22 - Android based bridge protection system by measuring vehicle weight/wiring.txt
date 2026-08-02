@@ -1,0 +1,14 @@
+PF_BT_22 - Android based bridge protection system by measuring vehicle weight
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

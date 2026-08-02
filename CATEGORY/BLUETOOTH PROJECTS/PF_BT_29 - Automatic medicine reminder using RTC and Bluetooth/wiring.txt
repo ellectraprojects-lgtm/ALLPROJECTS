@@ -1,0 +1,14 @@
+PF_BT_29 - Automatic medicine reminder using RTC and Bluetooth
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)
