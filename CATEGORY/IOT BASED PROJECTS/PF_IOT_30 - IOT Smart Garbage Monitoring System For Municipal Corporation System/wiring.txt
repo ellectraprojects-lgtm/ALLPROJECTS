@@ -1,0 +1,14 @@
+PF_IOT_30 - IOT Smart Garbage Monitoring System For Municipal Corporation System
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

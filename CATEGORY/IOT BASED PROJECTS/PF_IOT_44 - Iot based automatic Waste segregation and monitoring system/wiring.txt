@@ -1,0 +1,14 @@
+PF_IOT_44 - Iot based automatic Waste segregation and monitoring system
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

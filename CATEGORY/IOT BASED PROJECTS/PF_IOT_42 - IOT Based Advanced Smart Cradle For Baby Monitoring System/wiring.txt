@@ -1,0 +1,14 @@
+PF_IOT_42 - IOT Based Advanced Smart Cradle For Baby Monitoring System
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)
