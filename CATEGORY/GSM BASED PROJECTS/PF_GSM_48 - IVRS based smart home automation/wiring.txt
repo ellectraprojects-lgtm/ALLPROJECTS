@@ -1,0 +1,14 @@
+PF_GSM_48 - IVRS based smart home automation
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

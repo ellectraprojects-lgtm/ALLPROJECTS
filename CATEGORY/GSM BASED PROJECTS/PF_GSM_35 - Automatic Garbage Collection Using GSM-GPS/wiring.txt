@@ -1,0 +1,14 @@
+PF_GSM_35 - Automatic Garbage Collection Using GSM-GPS
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

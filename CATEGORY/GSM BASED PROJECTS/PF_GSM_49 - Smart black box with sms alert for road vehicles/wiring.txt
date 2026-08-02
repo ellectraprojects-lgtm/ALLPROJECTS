@@ -1,0 +1,14 @@
+PF_GSM_49 - Smart black box with sms alert for road vehicles
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)
