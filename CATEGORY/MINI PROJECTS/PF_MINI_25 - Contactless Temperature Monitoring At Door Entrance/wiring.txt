@@ -1,0 +1,14 @@
+PF_MINI_25 - Contactless Temperature Monitoring At Door Entrance
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

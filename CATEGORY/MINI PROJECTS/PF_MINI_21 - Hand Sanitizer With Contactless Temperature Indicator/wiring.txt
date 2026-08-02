@@ -1,0 +1,14 @@
+PF_MINI_21 - Hand Sanitizer With Contactless Temperature Indicator
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

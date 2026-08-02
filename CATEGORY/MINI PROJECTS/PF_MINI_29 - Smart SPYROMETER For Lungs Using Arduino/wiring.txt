@@ -1,0 +1,14 @@
+PF_MINI_29 - Smart SPYROMETER For Lungs Using Arduino
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

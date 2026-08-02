@@ -1,0 +1,14 @@
+PF_MINI_17 - Contactless Temperature Sensing With Voice Alert Indication For COVID- 19
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

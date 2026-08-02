@@ -1,0 +1,14 @@
+PF_MINI_28 - Automatic Pet Feeder Using Arduino
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

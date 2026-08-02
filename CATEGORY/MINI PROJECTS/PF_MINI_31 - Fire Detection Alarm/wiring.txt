@@ -1,0 +1,14 @@
+PF_MINI_31 - Fire Detection Alarm
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)

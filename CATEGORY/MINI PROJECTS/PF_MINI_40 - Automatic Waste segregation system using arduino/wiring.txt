@@ -1,0 +1,14 @@
+PF_MINI_40 - Automatic Waste segregation system using arduino
+============================================================
+
+## Components
+
+(Coming soon)
+
+## Connections
+
+(Coming soon)
+
+## Power / Notes
+
+(Coming soon)
